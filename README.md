@@ -53,11 +53,6 @@ Not tested on a device when this skeleton was generated, so expect to fix small 
 
 Every screen observes `JobRepository` and `BookmarkStore` in `onStart()` and stops in `onStop()`, so the three tabs always show the same data without passing lists around.
 
-## Working on it
-
-See [docs/TEAM_PLAN.md](docs/TEAM_PLAN.md) for who owns what, branch and commit rules.
-See [docs/PRESENTATION_OUTLINE.md](docs/PRESENTATION_OUTLINE.md) for the exam talk.
-
 ## Known limits
 
 - `AsyncTask` and `FragmentPagerAdapter` are deprecated. They are used on purpose because the course teaches them; the alternatives (executors, ViewPager2) are listed under "possible future development".
