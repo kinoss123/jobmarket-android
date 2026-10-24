@@ -1,0 +1,179 @@
+{
+ "job-count": 10,
+ "jobs": [
+  {
+   "id": 1,
+   "url": "https://remotive.com/",
+   "title": "Junior Android Developer",
+   "company_name": "Hanoi Mobile Labs",
+   "company_logo": "",
+   "category": "software-dev",
+   "tags": [
+    "android",
+    "java",
+    "kotlin"
+   ],
+   "job_type": "full_time",
+   "publication_date": "2026-10-11T09:00:00",
+   "candidate_required_location": "Vietnam",
+   "salary": "$1,200 - $1,800",
+   "description": "Build and maintain Android apps in Java and Kotlin.<br>Work with REST APIs, fragments and Material Design."
+  },
+  {
+   "id": 2,
+   "url": "https://remotive.com/",
+   "title": "Machine Learning Engineer",
+   "company_name": "Vision Studio",
+   "company_logo": "",
+   "category": "data",
+   "tags": [
+    "python",
+    "pytorch",
+    "cv"
+   ],
+   "job_type": "full_time",
+   "publication_date": "2026-10-12T09:00:00",
+   "candidate_required_location": "Worldwide",
+   "salary": "$70k - $95k",
+   "description": "Train and ship computer-vision models.<br>Python, PyTorch, ONNX."
+  },
+  {
+   "id": 3,
+   "url": "https://remotive.com/",
+   "title": "Data Analyst",
+   "company_name": "Sunrise Retail",
+   "company_logo": "",
+   "category": "data",
+   "tags": [
+    "sql",
+    "bi"
+   ],
+   "job_type": "contract",
+   "publication_date": "2026-10-13T09:00:00",
+   "candidate_required_location": "Asia",
+   "salary": "",
+   "description": "Dashboards and weekly reports for the retail team. SQL required."
+  },
+  {
+   "id": 4,
+   "url": "https://remotive.com/",
+   "title": "DevOps Engineer",
+   "company_name": "CloudNine",
+   "company_logo": "",
+   "category": "devops",
+   "tags": [
+    "kubernetes",
+    "aws",
+    "terraform"
+   ],
+   "job_type": "full_time",
+   "publication_date": "2026-10-14T09:00:00",
+   "candidate_required_location": "Europe",
+   "salary": "$80k - $110k",
+   "description": "Own CI/CD, Kubernetes clusters and observability."
+  },
+  {
+   "id": 5,
+   "url": "https://remotive.com/",
+   "title": "Product Designer",
+   "company_name": "Pixel & Co",
+   "company_logo": "",
+   "category": "design",
+   "tags": [
+    "figma",
+    "ux"
+   ],
+   "job_type": "full_time",
+   "publication_date": "2026-10-15T09:00:00",
+   "candidate_required_location": "Worldwide",
+   "salary": "",
+   "description": "Design flows and prototypes for a B2B SaaS product."
+  },
+  {
+   "id": 6,
+   "url": "https://remotive.com/",
+   "title": "QA Automation Engineer",
+   "company_name": "Hanoi Mobile Labs",
+   "company_logo": "",
+   "category": "qa",
+   "tags": [
+    "selenium",
+    "appium"
+   ],
+   "job_type": "full_time",
+   "publication_date": "2026-10-16T09:00:00",
+   "candidate_required_location": "Vietnam",
+   "salary": "$1,000 - $1,500",
+   "description": "Write automated UI tests for mobile and web."
+  },
+  {
+   "id": 7,
+   "url": "https://remotive.com/",
+   "title": "Customer Support Specialist",
+   "company_name": "HelpDesk Now",
+   "company_logo": "",
+   "category": "customer-support",
+   "tags": [
+    "support",
+    "english"
+   ],
+   "job_type": "part_time",
+   "publication_date": "2026-10-17T09:00:00",
+   "candidate_required_location": "USA",
+   "salary": "$18 - $24 / hour",
+   "description": "Answer tickets and live chat in English."
+  },
+  {
+   "id": 8,
+   "url": "https://remotive.com/",
+   "title": "Backend Engineer (Go)",
+   "company_name": "LedgerLoop",
+   "company_logo": "",
+   "category": "software-dev",
+   "tags": [
+    "go",
+    "postgres",
+    "api"
+   ],
+   "job_type": "full_time",
+   "publication_date": "2026-10-18T09:00:00",
+   "candidate_required_location": "Worldwide",
+   "salary": "$90k - $130k",
+   "description": "Build payment APIs in Go and PostgreSQL."
+  },
+  {
+   "id": 9,
+   "url": "https://remotive.com/",
+   "title": "Growth Marketer",
+   "company_name": "Sunrise Retail",
+   "company_logo": "",
+   "category": "marketing",
+   "tags": [
+    "seo",
+    "ads"
+   ],
+   "job_type": "full_time",
+   "publication_date": "2026-10-19T09:00:00",
+   "candidate_required_location": "Asia",
+   "salary": "",
+   "description": "Plan and run paid and organic campaigns."
+  },
+  {
+   "id": 10,
+   "url": "https://remotive.com/",
+   "title": "Technical Writer",
+   "company_name": "Vision Studio",
+   "company_logo": "",
+   "category": "writing",
+   "tags": [
+    "docs",
+    "markdown"
+   ],
+   "job_type": "contract",
+   "publication_date": "2026-10-20T09:00:00",
+   "candidate_required_location": "Worldwide",
+   "salary": "$40 / hour",
+   "description": "Write developer docs and tutorials."
+  }
+ ]
+}

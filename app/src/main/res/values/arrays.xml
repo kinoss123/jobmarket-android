@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Display names: translated in values-vi -->
+    <string-array name="category_names">
+        <item>All categories</item>
+        <item>Software development</item>
+        <item>Data</item>
+        <item>DevOps / Sysadmin</item>
+        <item>Product</item>
+        <item>Design</item>
+        <item>QA</item>
+        <item>Marketing</item>
+        <item>Sales</item>
+        <item>Customer support</item>
+        <item>Business</item>
+        <item>Finance / Legal</item>
+        <item>Writing</item>
+    </string-array>
+    <!-- Remotive API category slugs, same order as above. Empty = no filter. -->
+    <string-array name="category_slugs" translatable="false">
+        <item></item>
+        <item>software-dev</item>
+        <item>data</item>
+        <item>devops</item>
+        <item>product</item>
+        <item>design</item>
+        <item>qa</item>
+        <item>marketing</item>
+        <item>sales</item>
+        <item>customer-support</item>
+        <item>business</item>
+        <item>finance-legal</item>
+        <item>writing</item>
+    </string-array>
+</resources>

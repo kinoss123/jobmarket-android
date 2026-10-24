@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_names">
+        <item>Tất cả lĩnh vực</item>
+        <item>Phát triển phần mềm</item>
+        <item>Dữ liệu</item>
+        <item>DevOps / Quản trị hệ thống</item>
+        <item>Sản phẩm</item>
+        <item>Thiết kế</item>
+        <item>Kiểm thử (QA)</item>
+        <item>Marketing</item>
+        <item>Bán hàng</item>
+        <item>Chăm sóc khách hàng</item>
+        <item>Kinh doanh</item>
+        <item>Tài chính / Pháp lý</item>
+        <item>Biên tập, viết lách</item>
+    </string-array>
+</resources>

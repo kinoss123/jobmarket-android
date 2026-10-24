@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JobMarket</string>
+
+    <string name="tab_jobs">Jobs</string>
+    <string name="tab_insights">Insights</string>
+    <string name="tab_saved">Saved</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_search">Search title, company or skill</string>
+    <string name="status_live">Live data from Remotive</string>
+    <string name="status_cache">Offline copy, saved %1$s</string>
+    <string name="status_sample">Demo data (no connection)</string>
+    <string name="jobs_count">%1$d jobs</string>
+    <string name="empty_jobs">No jobs match your search.</string>
+    <string name="empty_saved">Nothing saved yet. Tap the bookmark on a job, or swipe a card.</string>
+
+    <string name="detail_apply">Apply</string>
+    <string name="detail_share">Share</string>
+    <string name="detail_save">Save</string>
+    <string name="detail_unsave">Remove</string>
+    <string name="salary_none">Salary not listed</string>
+    <string name="location_anywhere">Worldwide</string>
+    <string name="toast_saved">Saved</string>
+    <string name="toast_removed">Removed from saved</string>
+    <string name="error_no_browser">No app can open this link.</string>
+    <string name="share_chooser">Share this job</string>
+    <string name="share_text">%1$s at %2$s\n%3$s</string>
+
+    <string name="insights_total">Open positions</string>
+    <string name="insights_companies">Companies</string>
+    <string name="insights_with_salary">With salary</string>
+    <string name="insights_by_category">By category</string>
+    <string name="insights_by_type">By contract type</string>
+    <string name="insights_top_companies">Top hiring companies</string>
+    <string name="insights_empty">No data yet. Pull jobs from the Jobs tab first.</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="lang_system">System default</string>
+    <string name="lang_en">English</string>
+    <string name="lang_vi">Tiếng Việt</string>
+    <string name="settings_clear_cache">Clear offline cache</string>
+    <string name="cache_cleared">Offline cache cleared</string>
+</resources>

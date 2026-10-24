@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JobMarket</string>
+
+    <string name="tab_jobs">Việc làm</string>
+    <string name="tab_insights">Thống kê</string>
+    <string name="tab_saved">Đã lưu</string>
+
+    <string name="action_refresh">Làm mới</string>
+    <string name="action_settings">Cài đặt</string>
+
+    <string name="hint_search">Tìm theo chức danh, công ty hoặc kỹ năng</string>
+    <string name="status_live">Dữ liệu trực tiếp từ Remotive</string>
+    <string name="status_cache">Bản ngoại tuyến, lưu %1$s</string>
+    <string name="status_sample">Dữ liệu mẫu (không có kết nối)</string>
+    <string name="jobs_count">%1$d việc làm</string>
+    <string name="empty_jobs">Không có việc làm phù hợp.</string>
+    <string name="empty_saved">Chưa lưu việc nào. Nhấn biểu tượng đánh dấu hoặc vuốt thẻ việc làm.</string>
+
+    <string name="detail_apply">Ứng tuyển</string>
+    <string name="detail_share">Chia sẻ</string>
+    <string name="detail_save">Lưu</string>
+    <string name="detail_unsave">Bỏ lưu</string>
+    <string name="salary_none">Chưa công bố mức lương</string>
+    <string name="location_anywhere">Toàn cầu</string>
+    <string name="toast_saved">Đã lưu</string>
+    <string name="toast_removed">Đã bỏ lưu</string>
+    <string name="error_no_browser">Không có ứng dụng nào mở được liên kết này.</string>
+    <string name="share_chooser">Chia sẻ việc làm này</string>
+    <string name="share_text">%1$s tại %2$s\n%3$s</string>
+
+    <string name="insights_total">Vị trí đang tuyển</string>
+    <string name="insights_companies">Công ty</string>
+    <string name="insights_with_salary">Có ghi lương</string>
+    <string name="insights_by_category">Theo lĩnh vực</string>
+    <string name="insights_by_type">Theo loại hợp đồng</string>
+    <string name="insights_top_companies">Công ty tuyển nhiều nhất</string>
+    <string name="insights_empty">Chưa có dữ liệu. Hãy tải việc làm ở tab Việc làm trước.</string>
+
+    <string name="settings_title">Cài đặt</string>
+    <string name="settings_language">Ngôn ngữ</string>
+    <string name="lang_system">Theo hệ thống</string>
+    <string name="lang_en">English</string>
+    <string name="lang_vi">Tiếng Việt</string>
+    <string name="settings_clear_cache">Xóa bộ nhớ đệm ngoại tuyến</string>
+    <string name="cache_cleared">Đã xóa bộ nhớ đệm</string>
+</resources>
